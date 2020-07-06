@@ -1,0 +1,36 @@
+Component Name : LTC3118 UFD/QFN24
+
+Part Count : 2
+
+Part : *
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : *
+     Pins - (Normal) : 24
+          SEL            1              Passive
+          VIN1           2              Passive
+          RUN1           3              Passive
+          RUN2           4              Passive
+          Vcc            5              Passive
+          MODE           6              Passive
+          GND            7              Passive
+          VC             8              Passive
+          FB             9              Passive
+          V1GD           10             Passive
+          V2GD           11             Passive
+          PGD            12             Passive
+          Vout           13             Passive
+          SW2            14             Passive
+          BST2           15             Passive
+          BST1           16             Passive
+          SW1            17             Passive
+          VIN2           18             Passive
+          CP2            19             Passive
+          CM2            20             Passive
+          CN2            21             Passive
+          CM1            22             Passive
+          CN1            23             Passive
+          CP1            24             Passive
+          Hidden Pins : 
+
