@@ -10,7 +10,7 @@
 
 ------
 
-目录
+## 目录
 
 ```
 ├─multisim 模拟
@@ -40,3 +40,14 @@
     └─负压
 ```
 
+## 欣赏
+
+<img src="assets/巧克力 板.jpg" alt="巧克力 板" style="zoom: 50%;" />
+
+
+
+![PowerBar.1](assets/PowerBar.1-1615874811322.jpg)
+
+
+
+![PowerBar.4](assets/PowerBar.4.jpg)
